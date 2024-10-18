@@ -1,0 +1,159 @@
+body{
+    margin:0;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-container {
+   
+    width: 100%;
+    
+}
+.navbar-container div img{
+    transform: scale(0.8);
+    position: relative;
+    top:10px;
+}
+
+
+
+.navbar-container div{
+    display: inline-block;
+    margin-right:10% ;
+    text-align: center;
+}
+
+.navbar-container div:last-child{
+    margin-right: 0;
+}
+
+.list{
+    
+    width: 600px;
+    font-size: large;
+}
+
+.list-item {
+    display: inline-block;
+   
+    margin: 5%;
+}
+
+.list-item:hover {
+    transform: scale(1.1);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+.button-group{
+ 
+    width: 170px;
+    
+    transform: scale(1.3);
+}
+
+.button-group div{
+
+    display: inline-block;
+    vertical-align: center;
+}
+
+.nav-button {
+    border: 2px solid black;
+    padding: 5px 30px;
+    background-color: white;
+    border-radius: 7px;
+
+}
+
+
+
+.search-icon{
+    transform: scale(0.6);
+    position: relative;
+    top:12px;
+    left:25px;   
+}
+
+
+.hero-container .image {
+    float: left;
+    width: 45%;
+    transform: scale(0.8) translate(-20%,-12%)
+}
+
+.hero-container-right {
+    float: right;
+    width: 55%;
+    text-align: center;
+}
+
+.hero-heading {
+    font-family: 'Orbitron',sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.hero-description{
+    margin: 20px 0;
+    color: #555;
+}
+
+.button-email, .button-join {
+    font-size: 14px;
+    padding: 10px 25px;
+    border: 1px solid #000;
+    background-color: transparent;
+    cursor: pointer;
+    margin-right: 15px;
+  }
+  
+  .button-join {
+    background-color: black;
+    color: white;
+  }
+  
+  .contact-heading {
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .icons span {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .icons img {
+    width: 35px;
+    height: 35px;
+  }
+
+
+ .square{
+    position: absolute;
+    top:200px;
+    left: 60px;
+    z-index: -1;
+    transform: scale(0.8);
+ } 
+
+ .globe {
+    position: relative;
+    left: 450px;
+ }
+
+.globe {
+    transform: scaleX(-1);
+}
+
+
+.image img{
+    height: 500px;
+    position: relative;
+    left: 100px;
+}
