@@ -21,11 +21,6 @@ Live deployed website link: [Netlify-link](https://style-landin-page.netlify.app
 
 This project took around 3 hours to complete.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sathwik-alagoni-056b692a0/)
-
-
 
 ## Tools and Technologies Used
 - **HTML5 & CSS3** 
@@ -36,8 +31,7 @@ This project took around 3 hours to complete.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sathwik-alagoni-056b692a0/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-alagoni-056b692a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathwik-Alagoni)
 
 
